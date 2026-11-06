@@ -1,0 +1,2 @@
+export const NAGRO_HARDCODED_SERVICE_TOKEN =
+  "ng_svc_7Kx9mP2vQ4wR8sT1uY3zA6bC0dE5fG";
